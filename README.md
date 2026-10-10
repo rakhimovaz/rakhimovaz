@@ -34,7 +34,7 @@ My focus is on developing practical machine learning skills, understanding the i
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
@@ -49,25 +49,68 @@ My focus is on developing practical machine learning skills, understanding the i
 
 ### ✦ Selected Work
 
-**01 / Crowd Counting — Computer Vision**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An image-processing pipeline for estimating crowd density using OpenCV and KDE.
+### 01 · Crowd Counting
 
-[Explore Project →](https://github.com/rakhimovaz/Crowd-Counting)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-6366F1?style=flat-square)
 
-**02 / Titanic — Exploratory Data Analysis**
+Crowd density estimation using OpenCV and KDE on the ShanghaiTech Part B dataset.
 
-Exploring patterns and relationships in passenger data using Python and data visualization.
+**MAE: 66.40**
 
-[Explore Project →](https://github.com/rakhimovaz/titanic-analysis)
+`Python` `OpenCV` `SciPy` `KDE`
 
-**03 / NLP Text Classification**
+[**Explore Project ↗**](https://github.com/rakhimovaz/Crowd-Counting)
 
-Experiments with traditional machine learning models and transformer-based text classification.
+</td>
+<td width="50%" valign="top">
 
-**04 / Gesture-Controlled Robot**
+### 02 · Titanic Analysis
 
-An Arduino-based robotics project exploring gesture-driven movement and wireless communication.
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0891B2?style=flat-square)
+
+Exploratory data analysis and visualization to understand patterns in passenger data.
+
+**Focus: EDA & Visualization**
+
+`Python` `Pandas` `Matplotlib`
+
+[**Explore Project ↗**](https://github.com/rakhimovaz/titanic-analysis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · NLP Classification
+
+![NLP](https://img.shields.io/badge/NLP-DB2777?style=flat-square)
+
+Text classification experiments using traditional machine learning and transformer-based models.
+
+**Focus: Text Classification**
+
+`TF-IDF` `scikit-learn` `DistilBERT`
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Gesture Robot
+
+![Robotics](https://img.shields.io/badge/Robotics-D97706?style=flat-square)
+
+A wireless gesture-controlled robot built using Arduino and motion sensing.
+
+**Focus: Embedded Systems**
+
+`Arduino` `C++` `NRF24L01`
+
+</td>
+</tr>
+</table>
 
 ---
 
