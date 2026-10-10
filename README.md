@@ -1,13 +1,14 @@
 
 <div align="center">
 
-<img src="./.github/assets/neural-bloom-transparent.svg" width="100%" alt="Zuhra Rahimova — Machine Learning">
+<img src="./.github/assets/neural-bloom-transparent.svg" width="100%" alt="Neural Network Animation">
 
-### ✦ welcome to my little corner of tech ✦
 
-# Zuhra Rahimova
+### Exploring ideas. Building solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=C98F82&center=true&vCenter=true&width=550&height=40&lines=Computer+Science+Student;Aspiring+ML+Engineer;Exploring+Computer+Vision;Learning+and+Building" alt="Typing animation">
+#### ✦ welcome to my little corner of tech ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=C98F82&center=true&vCenter=true&width=550&height=40&lines=Computer+Science+Student;Aspiring+ML+Engineer;Exploring+Computer+Vision" alt="Typing animation">
 
 </div>
 
