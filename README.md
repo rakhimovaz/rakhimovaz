@@ -1,12 +1,6 @@
 
 <div align="center">
-
-<img src="./neural-bloom.svg" width="100%" alt="Zuhra Rakhimova - Animated Neural Network" />
-
-**Computer Science Student | Aspiring ML Engineer**
-
-Machine Learning · Computer Vision · Data Science
-
+  <img src="./neural-bloom-white.svg" width="100%" alt="Zuhra Rahimova — Machine Learning">
 </div>
 
 ---
