@@ -1,19 +1,16 @@
 
 <div align="center">
-  <img src="./neural-bloom-white.svg" width="100%" alt="Zuhra Rahimova — Machine Learning">
 
+<img src="./neural-bloom-white.svg" width="100%" alt="Zuhra Rahimova — Machine Learning">
 
 ### ✦ welcome to my little corner of tech ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1100&color=C98F82&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Exploring+Computer+Vision;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing animation" />
-
-**Computer Science Student · Aspiring ML Engineer**
-
-Machine Learning · Computer Vision · Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=C98F82&center=true&vCenter=true&width=550&height=35&lines=Computer+Science+Student;Aspiring+ML+Engineer;Learning+and+Building" alt="Typing animation">
 
 </div>
 
 ---
+
 
 ### ✦ About Me
 
