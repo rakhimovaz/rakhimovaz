@@ -1,28 +1,18 @@
 
 <div align="center">
 
-<img src="file:///Users/zuhra/Downloads/neural-bloom.svg" width="100%" alt="Zuhra Rakhimova - Animated Neural Network" />
+<img src="./neural-bloom.svg" width="100%" alt="Zuhra Rakhimova - Animated Neural Network" />
 
-</div>
+**Computer Science Student | Aspiring ML Engineer**
 
-### ✦ welcome to my little corner of tech
-
-# Zuhra Rakhimova
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=B69CFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Machine+Learning;Building+with+Python;Curious+about+Computer+Vision" alt="Typing animation" />
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-EC4899?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data_Science-0891B2?style=flat-square)
+Machine Learning · Computer Vision · Data Science
 
 </div>
 
 ---
 
 ### ✦ About Me
+
 
 I'm a fourth-year Computer Science student at **Central Asian University**, interested in Machine Learning, Computer Vision, and Data Science.
 
