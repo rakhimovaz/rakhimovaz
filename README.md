@@ -1,7 +1,5 @@
-
 <div align="center">
-
-<img src="./.github/assets/neural-bloom-transparent.svg" width="100%" alt="Zuhra Rahimova — Machine Learning & Computer Vision" />
+  <img src="./.github/assets/neural-bloom-transparent.svg" width="100%" alt="Zuhra Rahimova — Machine Learning">
 
 ### ✦ welcome to my little corner of tech ✦
 
