@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 250" role="img" aria-label="Zuhra Rahimova, machine learning and computer vision, animated neural network">
+<defs>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#CFA8A5"/><stop offset=".5" stop-color="#A8C5B7"/><stop offset="1" stop-color="#C6B7A6"/></linearGradient>
+ <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A97979"/><stop offset="1" stop-color="#6F9389"/></linearGradient>
+</defs>
+<!-- transparent background: only the network and typography -->
+<g stroke="url(#line)" stroke-width="1.25" fill="none" opacity=".58">
+ <path d="M35 78 L124 41 L202 87 L287 33 L364 77 L450 27 L537 73 L621 34 L703 84 L790 43 L865 81"/>
+ <path d="M35 78 L107 153 L202 87 L281 163 L364 77 L450 145 L537 73 L625 156 L703 84 L793 156 L865 81"/>
+ <path d="M107 153 L182 208 L281 163 L370 215 L450 145 L530 213 L625 156 L710 207 L793 156"/>
+ <path d="M124 41 L202 87 L281 163 M287 33 L364 77 L450 145 M537 73 L625 156 L710 207 M621 34 L703 84 L793 156"/>
+</g>
+<g fill="#C28F91">
+ <circle cx="35" cy="78" r="3.5"><animate attributeName="opacity" values=".25;.95;.25" dur="4.8s" repeatCount="indefinite"/></circle>
+ <circle cx="124" cy="41" r="3"/><circle cx="202" cy="87" r="4"><animate attributeName="r" values="3;5;3" dur="5.2s" repeatCount="indefinite"/></circle>
+ <circle cx="287" cy="33" r="3"/><circle cx="364" cy="77" r="4"/>
+ <circle cx="450" cy="27" r="3"/><circle cx="537" cy="73" r="4"/><circle cx="621" cy="34" r="3"/>
+ <circle cx="703" cy="84" r="4"/><circle cx="790" cy="43" r="3"/><circle cx="865" cy="81" r="3"/>
+</g>
+<g fill="#88ADA1">
+ <circle cx="107" cy="153" r="4"/><circle cx="281" cy="163" r="3"/><circle cx="450" cy="145" r="4"/><circle cx="625" cy="156" r="4"/><circle cx="793" cy="156" r="3"/>
+ <circle cx="182" cy="208" r="3"/><circle cx="370" cy="215" r="3"/><circle cx="530" cy="213" r="3"/><circle cx="710" cy="207" r="3"/>
+</g>
+<g fill="none" stroke="#D6A4A0" stroke-width="2.6" stroke-linecap="round" opacity=".9">
+ <circle r="4.5"><animateMotion dur="8s" repeatCount="indefinite" path="M35 78 L124 41 L202 87 L287 33 L364 77 L450 145 L530 213"/></circle>
+</g>
+<g fill="none" stroke="#8DB6A7" stroke-width="2.8" stroke-linecap="round" opacity=".9">
+ <circle r="4.5"><animateMotion dur="10s" repeatCount="indefinite" path="M865 81 L790 43 L703 84 L625 156 L537 73 L450 27 L364 77 L281 163 L182 208"/></circle>
+</g>
+<rect x="244" y="82" width="412" height="88" rx="15" fill="#FAF8F5" opacity=".93"/>
+<text x="450" y="116" text-anchor="middle" fill="url(#text)" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="30" letter-spacing="1">Zuhra Rahimova</text>
+<text x="450" y="143" text-anchor="middle" fill="#788D86" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">MACHINE LEARNING  ·  COMPUTER VISION</text>
+</svg>
