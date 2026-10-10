@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Zuhra Rakhimova
+# Zuhra Rahimova
 
 **Computer Science Student · Aspiring Machine Learning Engineer**
 
