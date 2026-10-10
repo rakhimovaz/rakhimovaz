@@ -1,6 +1,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/rakhimovaz/rakhimovaz/main/neural-bloom.svg" width="100%" alt="Zuhra Rakhimova - Animated Neural Network" />
+
+</div>
+
 ### ✦ welcome to my little corner of tech
 
 # Zuhra Rakhimova
