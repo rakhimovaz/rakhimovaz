@@ -61,18 +61,23 @@ Exploratory data analysis and visualization of passenger data.
 <tr>
 <td width="50%" valign="top">
 
-#### 03 · NLP Classification
+#### 03 · News Text Classification
 
 ![NLP](https://img.shields.io/badge/NLP-D7A89B?style=flat-square)
 
-Text classification using traditional machine learning and transformer models.
+English news classification using BoW, TF-IDF, and a small-scale DistilBERT experiment on AG News.
 
-`TF-IDF` `scikit-learn` `DistilBERT`
+**Logistic Regression accuracy: 91.47%**
+
+`Python` `scikit-learn` `DistilBERT`
+
+[Explore Project ↗](https://github.com/rakhimovaz/News-Text-Classification)
 
 </td>
 <td width="50%" valign="top">
 
 #### 04 · Gesture Robot
+
 
 ![Robotics](https://img.shields.io/badge/Robotics-B5A47D?style=flat-square)
 
